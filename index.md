@@ -3,4 +3,4 @@
 
 分类|
 ---|---
-[计算机](https://biyanru.github.io/computer) | [文学]()
+[计算机](computer) | [文学]()
